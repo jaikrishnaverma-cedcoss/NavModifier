@@ -1,0 +1,7 @@
+.nav{
+    flex-direction: space-around;
+}
+.nav img{
+height: 60px;
+margin-left: 100px;
+}
